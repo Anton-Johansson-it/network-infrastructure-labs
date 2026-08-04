@@ -8,7 +8,7 @@ The lab involved configuring and troubleshooting a multi-device network using La
 
 The network consisted of a router and multiple Layer 3 switches using a combination of switched and routed connections.
 
-![Network topology](topology.png)
+![Network topology](ccnp-enterprise-core-topology)
 
 ## Technologies
 
