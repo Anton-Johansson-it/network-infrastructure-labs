@@ -6,21 +6,36 @@ The projects demonstrate hands-on experience with network configuration, routing
 
 ## Projects
 
-### CCNP Enterprise Core
-Practical networking exercises covering enterprise switching, routing, IPv6 and network infrastructure configuration.
+### [CCNP Enterprise Core](CCNP-Enterprise-Core)
 
-### CCNP Enterprise Advanced Routing
-Advanced routing lab covering technologies such as EIGRP, OSPF, BGP, route redistribution, VRF-Lite and DMVPN.
+Practical enterprise networking lab covering Layer 2 and Layer 3 switching, VLANs, routing, IPv6 and network infrastructure configuration.
 
-### Windows Server Infrastructure
+**Technologies:** Cisco IOS, VLANs, SVIs, OSPF, BGP, IPv6
+
+### [CCNP Enterprise Advanced Routing](CCNP-Advanced-Routing)
+
+Advanced enterprise routing lab covering multi-protocol routing, route redistribution, path selection and tunneling.
+
+**Technologies:** EIGRP, OSPF, BGP, route redistribution, VRF-Lite, DMVPN
+
+### [Windows Server Infrastructure](Windows-Server-Infrastructure)
+
 Windows Server 2025 environment built using Active Directory, DNS, Group Policy, file services, WSUS, remote workstations and backup solutions.
 
-### Linux Network Services
-Configuration and administration of Linux-based network services including BIND DNS, Apache, SSH, firewalling, logging and SNMP.
+**Technologies:** Windows Server 2025, Active Directory, DNS, Group Policy, FSRM, WSUS, IIS
 
-### Splunk Monitoring
-Centralized monitoring and log analysis using Splunk, including dashboards for network devices, Windows/Linux systems and authentication events.
+### [Linux Internet Services](Internet-Services)
+
+Configuration and administration of Linux-based network services, including authoritative DNS, web services, firewalling, remote access and centralized logging.
+
+**Technologies:** Linux, BIND9, Apache2, SSH, iptables, rsyslog, logrotate, SNMP, NetBox
+
+### [Splunk Monitoring](Splunk-Monitoring)
+
+Group project involving centralized monitoring and log analysis using Splunk Enterprise. My contribution focused on the Splunk deployment, Windows log collection and monitoring dashboards.
+
+**Technologies:** Splunk Enterprise, Universal Forwarder, Windows Event Logs, Syslog, dashboards
 
 ## Purpose
 
-The repository is intended to provide examples of practical work completed during my studies and complement the technical experience described in my CV.
+This repository provides selected examples of practical work completed during my studies and complements the technical experience described in my CV.
