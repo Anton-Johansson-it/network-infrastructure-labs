@@ -8,7 +8,7 @@ The lab involved configuring and troubleshooting a multi-protocol routed network
 
 The topology consisted of multiple routers and Layer 3 switches divided between EIGRP and OSPF routing domains, with BGP providing external connectivity.
 
-![Network topology](topologi.png)
+![Network topology](ccnp-advanced-routing-topology.png)
 
 ## Technologies
 
